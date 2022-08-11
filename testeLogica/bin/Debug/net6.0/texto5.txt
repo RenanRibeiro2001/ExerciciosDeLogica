@@ -1,0 +1,1 @@
+nome: renan, idade: 20, peso: 85,5, altura: 1,75, IMS: 27,918367346938776

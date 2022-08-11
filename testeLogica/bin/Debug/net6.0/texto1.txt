@@ -1,0 +1,1 @@
+nome: thiago, idade: 54, peso: 86, altura: 1,87, IMS: 24,59321112985787

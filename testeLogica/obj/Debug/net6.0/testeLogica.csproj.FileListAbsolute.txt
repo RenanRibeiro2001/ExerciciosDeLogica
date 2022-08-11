@@ -1,0 +1,15 @@
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\bin\Debug\net6.0\testeLogica.exe
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\bin\Debug\net6.0\testeLogica.deps.json
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\bin\Debug\net6.0\testeLogica.runtimeconfig.json
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\bin\Debug\net6.0\testeLogica.dll
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\bin\Debug\net6.0\testeLogica.pdb
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\testeLogica.csproj.AssemblyReference.cache
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\testeLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\testeLogica.AssemblyInfoInputs.cache
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\testeLogica.AssemblyInfo.cs
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\testeLogica.csproj.CoreCompileInputs.cache
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\testeLogica.dll
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\refint\testeLogica.dll
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\testeLogica.pdb
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\testeLogica.genruntimeconfig.cache
+C:\Users\renan.ferreira\source\repos\testeLogica\testeLogica\obj\Debug\net6.0\ref\testeLogica.dll
